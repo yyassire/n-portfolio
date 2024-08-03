@@ -261,56 +261,77 @@ export const projects = [
     live_link: "https://n-brainwave.vercel.app/",
   },
   {
-    name: "Caption Generator",
+    name: "Youchi Landing Page",
     description:
-      "EpicCaption is an online Video Captions designed for content creators.It allows you to upload a Video and generate the appropriate captions for it.",
-    tags: [
-      {
-        name: "Next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "AWS",
-        color: "green-text-gradient",
-      },
-      ,
-    ],
-    image: "/assets/captionGenerator.jpeg",
-    source_code_link: "https://github.com/yyassire/n-caption-project",
-    live_link: "https://n-caption-project.vercel.app/",
-  },
-  {
-    name: "Real State Project",
-    description:
-      "this Project is a real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods",
+      "A landing page for a team of designers, storytellers, and passionate collaborators, who work together to create industry-shifting presentations that win people's hearts and minds.",
     tags: [
       {
         name: "React.js",
         color: "blue-text-gradient",
       },
-
       {
         name: "tailwind",
         color: "pink-text-gradient",
       },
-      {
-        name: "Nodejs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "MongoDb",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: "/assets/realState.jpeg",
+      { name: "Gsap", color: "green-text-gradient" },
 
-    source_code_link: "https://github.com/yyassire/n-real-estate-project",
-    live_link: "https://n-real-estatete.onrender.com/",
+      ,
+    ],
+    image: "/yochi.png",
+    source_code_link: "https://github.com/yyassire/new-yichi-landing-page",
+    live_link: "https://new-yichi-landing-page.vercel.app/",
   },
+  // {
+  //   name: "Caption Generator",
+  //   description:
+  //     "EpicCaption is an online Video Captions designed for content creators.It allows you to upload a Video and generate the appropriate captions for it.",
+  //   tags: [
+  //     {
+  //       name: "Next.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "AWS",
+  //       color: "green-text-gradient",
+  //     },
+  //     ,
+  //   ],
+  //   image: "/assets/captionGenerator.jpeg",
+  //   source_code_link: "https://github.com/yyassire/n-caption-project",
+  //   live_link: "https://n-caption-project.vercel.app/",
+  // },
+  // {
+  //   name: "Real State Project",
+  //   description:
+  //     "this Project is a real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods",
+  //   tags: [
+  //     {
+  //       name: "React.js",
+  //       color: "blue-text-gradient",
+  //     },
+
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "Nodejs",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "MongoDb",
+  //       color: "blue-text-gradient",
+  //     },
+  //   ],
+  //   image: "/assets/realState.jpeg",
+
+  //   source_code_link: "https://github.com/yyassire/n-real-estate-project",
+  //   live_link: "https://n-real-estatete.onrender.com/",
+  // },
 
   {
     name: "Cropper",
