@@ -334,22 +334,44 @@ export const projects = [
   // },
 
   {
-    name: "Cropper",
-    description:
-      "CropScore is an online image cropper designed for content creators.It calculates the score of how well the real-time crop will fit for the target use.Custom resolutions and aspect ratios are also supported.",
+    name: "3D slider",
+    description: "A 3D slider Build with React Three Fiber.",
     tags: [
       {
-        name: "Next.js",
+        name: "React.js",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "React-Three-Fiber",
         color: "pink-text-gradient",
+      },
+      {
+        name: "React-Three-Drei",
+        color: "green-text-gradient",
       },
       ,
     ],
-    image: "/assets/scropper.png",
-    source_code_link: "https://github.com/yyassire/n-cropper",
-    live_link: "https://n-cropper.vercel.app/",
+    image: "/assets/3dslider.png",
+    source_code_link: "https://github.com/yyassire/3dslider",
+    live_link: "https://3dslider-three.vercel.app/",
   },
+  // {
+  //   name: "Cropper",
+  //   description:
+  //     "CropScore is an online image cropper designed for content creators.It calculates the score of how well the real-time crop will fit for the target use.Custom resolutions and aspect ratios are also supported.",
+  //   tags: [
+  //     {
+  //       name: "Next.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //     ,
+  //   ],
+  //   image: "/assets/scropper.png",
+  //   source_code_link: "https://github.com/yyassire/n-cropper",
+  //   live_link: "https://n-cropper.vercel.app/",
+  // },
 ];
